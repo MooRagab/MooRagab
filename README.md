@@ -17,5 +17,4 @@
 - **Twitter:** [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MoRagabR)
 - **Facebook:** [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mohamedahamedragab)
 
-Feel free to connect with me. I'm always open to interesting conversations and collaborations!
 
