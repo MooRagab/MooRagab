@@ -2,8 +2,6 @@
 
 <h2>I'm a Backend Developer</h2>
 
-![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif) <!-- Replace this link with a GIF of your choice -->
-
 # 🚀 My Tech Stack
 
 ## **Languages**
