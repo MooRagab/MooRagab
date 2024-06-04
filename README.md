@@ -1,6 +1,8 @@
 # Hi there, I'm Mohamed Ragab! 👋
 
-  <h2>I'm a Backend Developer</h2>
+<h2>I'm a Backend Developer</h2>
+
+![Coding GIF](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif) <!-- Replace this link with a GIF of your choice -->
 
 # 🚀 My Tech Stack
 
@@ -12,12 +14,13 @@
 ## **Web Technologies**
  [![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)](https://expressjs.com/)
  [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org/)
- [![REST](https://img.shields.io/badge/-REST-FF5733?style=flat-square)](https://restfulapi.net/)
+ [![REST API](https://img.shields.io/badge/-REST%20API-FF5733?style=flat-square&logo=api&logoColor=white)](https://restfulapi.net/)
  [![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)](https://socket.io/)
  [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
  [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
  [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
  [![EJS](https://img.shields.io/badge/-EJS-8B4513?style=flat-square&logo=ejs&logoColor=white)](https://ejs.co/)
+ ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
 ## **Databases**
  [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
@@ -30,11 +33,6 @@
  [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
  [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
 
-
-## 📫 Connect With Me !
-
-- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedragab222/)
-- **Twitter:** [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/MoRagabR)
-- **Facebook:** [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/mohamedahamedragab)
-
-
+## **Connect with Me**
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ragab-a319b0295/)
+ [![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/MoRagabR)
