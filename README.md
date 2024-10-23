@@ -1,6 +1,6 @@
 # Hi there, I'm Mohamed Ragab! 👋
 
-## 🚀 I'm a Backend Developer
+## 🚀 I'm a Web Developer
 
 Welcome to my GitHub profile! I'm passionate about building robust backend systems and integrating them seamlessly with frontend technologies. Here's a glimpse into my tech stack and some of the tools I love to use.
 
